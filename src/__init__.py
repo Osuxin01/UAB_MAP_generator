@@ -1,0 +1,1 @@
+"""UAB map generator package."""
